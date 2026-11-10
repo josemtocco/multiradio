@@ -1,1 +1,43 @@
+name: Update MultiRádio M3U
 
+on:
+  schedule:
+    # A cada 6 horas (UTC)
+    - cron: "0 */6 * * *"
+  workflow_dispatch:  # permite rodar manualmente
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run scraper & generate M3U
+        run: python scrape_and_generate.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add lista.m3u channels.json
+          if git diff --staged --quiet; then
+            echo "Nenhuma alteração detectada."
+          else
+            git commit -m "chore: atualiza lista M3U MultiRádio WebTVs ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+            git push
+          fi
