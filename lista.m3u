@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLIST: MultiRádio WebTVs
+#EXT-X-SESSION-DATA:DATA-ID="com.ssiptv.update",VALUE="2026-11-10 20:00 UTC"
+#EXTINF:-1 tvg-id="ldnews-tv" tvg-name="Ldnews  TV" tvg-logo="https://multiradio.com.br/uploads/0c2d88f75238e2d5fd7a6a7c959d1a4f.png" group-title="WebTVs | MG",Ldnews  TV
+https://stmv3.voxtvhd.com.br/leandroenzo/leandroenzo/playlist.m3u8
+#EXTINF:-1 tvg-id="clouding-tv" tvg-name="Clouding TV" tvg-logo="https://www.multiradio.com.br/uploads/fcc11f1f260713567e387a69392e9b67.png" group-title="WebTVs | PA",Clouding TV
+https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8
+#EXTINF:-1 tvg-id="xtreme-tv" tvg-name="Xtreme tv" tvg-logo="https://megadownload.mxcplay.xyz/uploads/Banners/logo.jpg" group-title="WebTVs | RS",Xtreme tv
+https://video11.logicahost.com.br/xtremetv/xtremetv/playlist.m3u8
+#EXTINF:-1 tvg-id="brks-tv" tvg-name="Brks TV" tvg-logo="https://www.multiradio.com.br/uploads/3d3942c5e4d6ccb3b15c1474bccfb3f3.png" group-title="WebTVs | SP",Brks TV
+https://stmv8.samcast.com.br/alvaro9088/alvaro9088/playlist.m3u8
+#EXTINF:-1 tvg-id="caravana-play" tvg-name="Caravana Play" tvg-logo="https://megadownload.mxcplay.xyz/uploads/Banners/WhatsApp-Image-2026-08-27-at-18_48_29.jpg" group-title="WebTVs | SP",Caravana Play
+https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8
+#EXTINF:-1 tvg-id="lucas-tv" tvg-name="LUCAS TV" tvg-logo="https://multiradio.com.br/uploads/8ca83dfd99597837f7abb5e2.jpg" group-title="WebTVs | SP",LUCAS TV
+https://stmv1.srvif.com/lucastv/lucastv/playlist.m3u8
+#EXTINF:-1 tvg-id="radio-e-tv-explosaofm" tvg-name="Rádio e Tv Explosãofm" tvg-logo="https://megadownload.mxcplay.xyz/uploads/Logo-App/Sem-Título-1.jpg" group-title="WebTVs | SP",Rádio e Tv Explosãofm
+https://stmv1.liveplushd.com.br/tvexplosaofm/tvexplosaofm/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-mix-play" tvg-name="TV Mix Play" tvg-logo="https://multiradio.com.br/uploads/541fd89c2bb69d0c0b28046567efedaa.png" group-title="WebTVs | SP",TV Mix Play
+https://Stmv1.samcast.com.br/leandroantonio7386/leandroantonio7386/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-nova-geracao" tvg-name="TV NOVA GERAÇÃO" tvg-logo="https://megadownload.mxcplay.xyz/uploads/Banner-teste/banner-Mstv-play---2026-copiar.png" group-title="WebTVs | SP",TV NOVA GERAÇÃO
+https://stmv5.voxtvhd.com.br/paulinho6909/paulinho6909/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-pompeia" tvg-name="TV POMPEIA" tvg-logo="https://multiradio.com.br/uploads/f67190153b6d35a8ae189283.png" group-title="WebTVs | TO",TV POMPEIA
+https://stmv1.srvif.com/ferrera/ferrera/playlist.m3u8
+#EXTINF:-1 tvg-id="wording-de-televisao" tvg-name="Wording de Televisao" tvg-logo="https://megadownload.mxcplay.xyz/uploads/Banner-novo-do-site/banner-Mstv-play---2026.jpg" group-title="WebTVs | TO",Wording de Televisao
+https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
