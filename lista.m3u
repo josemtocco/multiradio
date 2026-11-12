@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST: MultiRádio WebTVs
-#EXT-X-SESSION-DATA:DATA-ID="com.ssiptv.update",VALUE="2026-11-12 04:47 UTC"
+#EXT-X-SESSION-DATA:DATA-ID="com.ssiptv.update",VALUE="2026-11-12 14:12 UTC"
 #EXTINF:-1 tvg-id="ldnews-tv" tvg-name="Ldnews  TV" tvg-logo="https://multiradio.com.br/uploads/0c2d88f75238e2d5fd7a6a7c959d1a4f.png" group-title="WebTVs | MG",Ldnews  TV
 https://stmv3.voxtvhd.com.br/leandroenzo/leandroenzo/playlist.m3u8
 #EXTINF:-1 tvg-id="clouding-tv" tvg-name="Clouding TV" tvg-logo="https://www.multiradio.com.br/uploads/fcc11f1f260713567e387a69392e9b67.png" group-title="WebTVs | PA",Clouding TV
@@ -17,8 +17,6 @@ https://stmv1.srvif.com/lucastv/lucastv/playlist.m3u8
 https://stmv1.liveplushd.com.br/tvexplosaofm/tvexplosaofm/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-mix-play" tvg-name="TV Mix Play" tvg-logo="https://multiradio.com.br/uploads/541fd89c2bb69d0c0b28046567efedaa.png" group-title="WebTVs | SP",TV Mix Play
 https://Stmv1.samcast.com.br/leandroantonio7386/leandroantonio7386/playlist.m3u8
-#EXTINF:-1 tvg-id="tv-nova-geracao" tvg-name="TV NOVA GERAÇÃO" tvg-logo="https://megadownload.mxcplay.xyz/uploads/Banner-teste/banner-Mstv-play---2026-copiar.png" group-title="WebTVs | SP",TV NOVA GERAÇÃO
-https://stmv5.voxtvhd.com.br/paulinho6909/paulinho6909/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-pompeia" tvg-name="TV POMPEIA" tvg-logo="https://multiradio.com.br/uploads/f67190153b6d35a8ae189283.png" group-title="WebTVs | TO",TV POMPEIA
 https://stmv1.srvif.com/ferrera/ferrera/playlist.m3u8
 #EXTINF:-1 tvg-id="wording-de-televisao" tvg-name="Wording de Televisao" tvg-logo="https://megadownload.mxcplay.xyz/uploads/Banner-novo-do-site/banner-Mstv-play---2026.jpg" group-title="WebTVs | TO",Wording de Televisao
