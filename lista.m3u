@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST: MultiRádio WebTVs
-#EXT-X-SESSION-DATA:DATA-ID="com.ssiptv.update",VALUE="2026-11-13 22:59 UTC"
+#EXT-X-SESSION-DATA:DATA-ID="com.ssiptv.update",VALUE="2026-11-14 03:57 UTC"
 #EXTINF:-1 tvg-id="ldnews-tv" tvg-name="Ldnews  TV" tvg-logo="https://multiradio.com.br/uploads/0c2d88f75238e2d5fd7a6a7c959d1a4f.png" group-title="WebTVs | MG",Ldnews  TV
 https://stmv3.voxtvhd.com.br/leandroenzo/leandroenzo/playlist.m3u8
 #EXTINF:-1 tvg-id="clouding-tv" tvg-name="Clouding TV" tvg-logo="https://www.multiradio.com.br/uploads/fcc11f1f260713567e387a69392e9b67.png" group-title="WebTVs | PA",Clouding TV
