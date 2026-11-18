@@ -1,10 +1,12 @@
 #EXTM3U
 #PLAYLIST: MultiRádio WebTVs
-#EXT-X-SESSION-DATA:DATA-ID="com.ssiptv.update",VALUE="2026-11-17 15:06 UTC"
+#EXT-X-SESSION-DATA:DATA-ID="com.ssiptv.update",VALUE="2026-11-18 00:10 UTC"
 #EXTINF:-1 tvg-id="ldnews-tv" tvg-name="Ldnews  TV" tvg-logo="https://multiradio.com.br/uploads/0c2d88f75238e2d5fd7a6a7c959d1a4f.png" group-title="WebTVs | MG",Ldnews  TV
 https://stmv3.voxtvhd.com.br/leandroenzo/leandroenzo/playlist.m3u8
 #EXTINF:-1 tvg-id="clouding-tv" tvg-name="Clouding TV" tvg-logo="https://www.multiradio.com.br/uploads/fcc11f1f260713567e387a69392e9b67.png" group-title="WebTVs | PA",Clouding TV
 https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8
+#EXTINF:-1 tvg-id="rede-impacto-gospel-tv" tvg-name="Rede Impacto Gospel TV" tvg-logo="https://multiradio.com.br/uploads/caeadb35bb55a1b87559626bf342833d.png" group-title="WebTVs | PI",Rede Impacto Gospel TV
+https://radiosnet.site/hls/redeimpactogospeltv/redeimpactogospeltv.m3u8
 #EXTINF:-1 tvg-id="xtreme-tv" tvg-name="Xtreme tv" tvg-logo="https://megadownload.mxcplay.xyz/uploads/Banners/logo.jpg" group-title="WebTVs | RS",Xtreme tv
 https://video11.logicahost.com.br/xtremetv/xtremetv/playlist.m3u8
 #EXTINF:-1 tvg-id="brks-tv" tvg-name="Brks TV" tvg-logo="https://www.multiradio.com.br/uploads/3d3942c5e4d6ccb3b15c1474bccfb3f3.png" group-title="WebTVs | SP",Brks TV
