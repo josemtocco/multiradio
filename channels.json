@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T13:52:08.715519+00:00",
+  "updated_at": "2026-11-21T22:34:31.282537+00:00",
   "source": "https://multiradio.com.br/webtvs.php",
   "total": 17,
   "channels": [
@@ -11,7 +11,7 @@
       "logo": "https://multiradio.com.br/uploads/d3e0773322c8d1d335e0b810258b788d.png",
       "stream": "https://srv3.zcast.com.br/romilson8168/romilson8168/playlist.m3u8",
       "page_url": "https://multiradio.com.br/webtv/sbc-tv",
-      "last_seen": "2026-11-21T13:51:43.335394+00:00",
+      "last_seen": "2026-11-21T22:34:07.639770+00:00",
       "active": true
     },
     {
@@ -22,7 +22,7 @@
       "logo": "https://multiradio.com.br/uploads/0c2d88f75238e2d5fd7a6a7c959d1a4f.png",
       "stream": "https://stmv3.voxtvhd.com.br/leandroenzo/leandroenzo/playlist.m3u8",
       "page_url": "https://multiradio.com.br/webtv/ldnews-tv",
-      "last_seen": "2026-11-21T13:51:33.508723+00:00",
+      "last_seen": "2026-11-21T22:33:57.824063+00:00",
       "active": true
     },
     {
@@ -33,7 +33,7 @@
       "logo": "https://www.multiradio.com.br/uploads/c9297c15fdef5252319d3f7f2c318469.png",
       "stream": "https://stmv3.srvsh.com.br/heliononato9350/heliononato9350/playlist.m3u8",
       "page_url": "https://multiradio.com.br/webtv/nova92-caratinga",
-      "last_seen": "2026-11-21T13:51:38.378690+00:00",
+      "last_seen": "2026-11-21T22:34:02.765358+00:00",
       "active": true
     },
     {
@@ -44,7 +44,7 @@
       "logo": "https://www.multiradio.com.br/uploads/fcc11f1f260713567e387a69392e9b67.png",
       "stream": "https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8",
       "page_url": "https://multiradio.com.br/webtv/clouding-tv",
-      "last_seen": "2026-11-21T13:51:32.528170+00:00",
+      "last_seen": "2026-11-21T22:33:56.854979+00:00",
       "active": true
     },
     {
@@ -55,7 +55,7 @@
       "logo": "https://multiradio.com.br/uploads/caeadb35bb55a1b87559626bf342833d.png",
       "stream": "https://radiosnet.site/hls/redeimpactogospeltv/redeimpactogospeltv.m3u8",
       "page_url": "https://multiradio.com.br/webtv/rede-impacto-gospel-tv",
-      "last_seen": "2026-11-21T13:51:40.327173+00:00",
+      "last_seen": "2026-11-21T22:34:04.725666+00:00",
       "active": true
     },
     {
@@ -66,7 +66,7 @@
       "logo": "https://www.multiradio.com.br/uploads/5d9285694f85305313d57dfcd5e1a1e5.jpg",
       "stream": "https://stmv7.voxtvhd.com.br/lucas3274/lucas3274/playlist.m3u8",
       "page_url": "https://multiradio.com.br/webtv/rede-novelas-de-televisao",
-      "last_seen": "2026-11-21T13:51:41.300630+00:00",
+      "last_seen": "2026-11-21T22:34:05.693821+00:00",
       "active": true
     },
     {
@@ -77,7 +77,7 @@
       "logo": "https://megadownload.mxcplay.xyz/uploads/Banners/logo.jpg",
       "stream": "https://video11.logicahost.com.br/xtremetv/xtremetv/playlist.m3u8",
       "page_url": "https://multiradio.com.br/webtv/xtreme-tv",
-      "last_seen": "2026-11-21T13:51:50.315477+00:00",
+      "last_seen": "2026-11-21T22:34:14.482234+00:00",
       "active": true
     },
     {
@@ -88,7 +88,7 @@
       "logo": "https://www.multiradio.com.br/uploads/3d3942c5e4d6ccb3b15c1474bccfb3f3.png",
       "stream": "https://stmv8.samcast.com.br/alvaro9088/alvaro9088/playlist.m3u8",
       "page_url": "https://multiradio.com.br/webtv/brks-tv",
-      "last_seen": "2026-11-21T13:51:30.572228+00:00",
+      "last_seen": "2026-11-21T22:33:54.861715+00:00",
       "active": true
     },
     {
@@ -99,7 +99,7 @@
       "logo": "https://megadownload.mxcplay.xyz/uploads/Banners/WhatsApp-Image-2026-08-27-at-18_48_29.jpg",
       "stream": "https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8",
       "page_url": "https://multiradio.com.br/webtv/caravana-play",
-      "last_seen": "2026-11-21T13:51:31.555782+00:00",
+      "last_seen": "2026-11-21T22:33:55.829255+00:00",
       "active": true
     },
     {
@@ -110,7 +110,7 @@
       "logo": "https://multiradio.com.br/uploads/8ca83dfd99597837f7abb5e2.jpg",
       "stream": "https://stmv1.srvif.com/lucastv/lucastv/playlist.m3u8",
       "page_url": "https://multiradio.com.br/webtv/lucas-tv",
-      "last_seen": "2026-11-21T13:51:34.480928+00:00",
+      "last_seen": "2026-11-21T22:33:58.804526+00:00",
       "active": true
     },
     {
@@ -121,7 +121,7 @@
       "logo": "https://www.multiradio.com.br/uploads/41b1c24c0cfb89f1e8fced061a7a16b4.png",
       "stream": "https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8",
       "page_url": "https://multiradio.com.br/webtv/nick-webtv",
-      "last_seen": "2026-11-21T13:51:36.424463+00:00",
+      "last_seen": "2026-11-21T22:34:00.739134+00:00",
       "active": true
     },
     {
@@ -132,7 +132,7 @@
       "logo": "https://megadownload.mxcplay.xyz/uploads/Logo-App/Sem-Título-1.jpg",
       "stream": "https://stmv1.liveplushd.com.br/tvexplosaofm/tvexplosaofm/playlist.m3u8",
       "page_url": "https://multiradio.com.br/webtv/radio-e-tv-explosaofm",
-      "last_seen": "2026-11-21T13:51:39.353363+00:00",
+      "last_seen": "2026-11-21T22:34:03.740032+00:00",
       "active": true
     },
     {
@@ -143,7 +143,7 @@
       "logo": "https://multiradio.com.br/uploads/541fd89c2bb69d0c0b28046567efedaa.png",
       "stream": "https://Stmv1.samcast.com.br/leandroantonio7386/leandroantonio7386/playlist.m3u8",
       "page_url": "https://multiradio.com.br/webtv/tv-mix-play",
-      "last_seen": "2026-11-21T13:51:45.439118+00:00",
+      "last_seen": "2026-11-21T22:34:09.583217+00:00",
       "active": true
     },
     {
@@ -154,7 +154,7 @@
       "logo": "https://megadownload.mxcplay.xyz/uploads/Banner-teste/banner-Mstv-play---2026-copiar.png",
       "stream": "https://stmv5.voxtvhd.com.br/paulinho6909/paulinho6909/playlist.m3u8",
       "page_url": "https://multiradio.com.br/webtv/tv-nova-geracao",
-      "last_seen": "2026-11-21T13:51:46.413836+00:00",
+      "last_seen": "2026-11-21T22:34:10.550910+00:00",
       "active": true
     },
     {
@@ -165,7 +165,7 @@
       "logo": "https://www.multiradio.com.br/uploads/9f98b66b6f3eeb03e975deb219f8484d.jpg",
       "stream": "https://stmv1.liveplushd.com.br/jovemtotaltv/jovemtotaltv/playlist.m3u8",
       "page_url": "https://multiradio.com.br/webtv/tv-jovem-total",
-      "last_seen": "2026-11-21T13:51:44.306987+00:00",
+      "last_seen": "2026-11-21T22:34:08.616179+00:00",
       "active": true
     },
     {
@@ -176,7 +176,7 @@
       "logo": "https://multiradio.com.br/uploads/f67190153b6d35a8ae189283.png",
       "stream": "https://stmv1.srvif.com/ferrera/ferrera/playlist.m3u8",
       "page_url": "https://multiradio.com.br/webtv/tv-pompeia",
-      "last_seen": "2026-11-21T13:51:47.387957+00:00",
+      "last_seen": "2026-11-21T22:34:11.576292+00:00",
       "active": true
     },
     {
@@ -187,7 +187,7 @@
       "logo": "https://megadownload.mxcplay.xyz/uploads/Banner-novo-do-site/banner-Mstv-play---2026.jpg",
       "stream": "https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8",
       "page_url": "https://multiradio.com.br/webtv/wording-de-televisao",
-      "last_seen": "2026-11-21T13:51:49.332972+00:00",
+      "last_seen": "2026-11-21T22:34:13.513252+00:00",
       "active": true
     }
   ]
