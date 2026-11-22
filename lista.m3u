@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST: MultiRádio WebTVs
-#EXT-X-SESSION-DATA:DATA-ID="com.ssiptv.update",VALUE="2026-11-22 03:56 UTC"
+#EXT-X-SESSION-DATA:DATA-ID="com.ssiptv.update",VALUE="2026-11-22 13:45 UTC"
 #EXTINF:-1 tvg-id="sbc-tv" tvg-name="SBC TV" tvg-logo="https://multiradio.com.br/uploads/d3e0773322c8d1d335e0b810258b788d.png" group-title="WebTVs | CE",SBC TV
 https://srv3.zcast.com.br/romilson8168/romilson8168/playlist.m3u8
 #EXTINF:-1 tvg-id="ldnews-tv" tvg-name="Ldnews  TV" tvg-logo="https://multiradio.com.br/uploads/0c2d88f75238e2d5fd7a6a7c959d1a4f.png" group-title="WebTVs | MG",Ldnews  TV
