@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST: MultiRádio WebTVs
-#EXT-X-SESSION-DATA:DATA-ID="com.ssiptv.update",VALUE="2026-11-28 00:49 UTC"
+#EXT-X-SESSION-DATA:DATA-ID="com.ssiptv.update",VALUE="2026-11-28 14:43 UTC"
 #EXTINF:-1 tvg-id="ldnews-tv" tvg-name="Ldnews  TV" tvg-logo="https://multiradio.com.br/uploads/0c2d88f75238e2d5fd7a6a7c959d1a4f.png" group-title="WebTVs | MG",Ldnews  TV
 https://stmv3.voxtvhd.com.br/leandroenzo/leandroenzo/playlist.m3u8
 #EXTINF:-1 tvg-id="nova92-caratinga" tvg-name="Nova92 Caratinga" tvg-logo="https://www.multiradio.com.br/uploads/c9297c15fdef5252319d3f7f2c318469.png" group-title="WebTVs | MG",Nova92 Caratinga
